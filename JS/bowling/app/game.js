@@ -1,8 +1,7 @@
 class Game {
 
 	constructor() {
-		this._rolls = new Array(21);
-		this._rolls.fill(0);
+		this._rolls = new Array(21).fill(0);
 		this._currentRoll = 0;
 	}
 

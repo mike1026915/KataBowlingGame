@@ -1,2 +1,2 @@
 # KataBowlingGame
-Practice kata bowling game with differnet language
+Practice kata with differnet language
